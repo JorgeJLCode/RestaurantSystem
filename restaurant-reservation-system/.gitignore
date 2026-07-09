@@ -1,0 +1,46 @@
+# Java / Spring Boot
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
+
+# Node / React
+node_modules/
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Lovable / AI prototypes
+prototypes/lovable/
+lovable/
+lovable-export/
+.lovable/
+
+# Temporary AI-generated files
+ai-drafts/
+scratch/
+temp/
+tmp/
+
+# Private notes
+private-notes/
